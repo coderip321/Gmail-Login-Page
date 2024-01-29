@@ -42,5 +42,3 @@ This project is licensed under the [GNU License](LICENSE).
 
 Happy Coding!
 ```
-
-Remember to replace "your-username" with your actual GitHub username and update any file paths, names, or other details based on your project structure. Additionally, you might want to add a "Screenshots" section with images of your Gmail Login Page in action.
