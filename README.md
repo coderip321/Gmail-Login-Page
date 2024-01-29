@@ -1,4 +1,46 @@
-![3724084c-0313-44e2-8a27-d1dfa950ab94](https://github.com/khalid361/Gmail-Login-Page/assets/140252447/91f08d21-feae-4c2a-a467-bcd66cb50b62)
+# Gmail Login Page
 
-# Gmail-Login-Page
-Immerse yourself in the sleek and user-friendly design of our custom Gmail login page crafted with precision using HTML and CSS. This contemporary login interface not only ensures a seamless user experience but also boasts an aesthetic appeal that captivates from the first glance.
+Welcome to the Gmail Login Page project, a simple and elegant HTML & CSS implementation of a login interface inspired by Gmail. This project is designed to provide a clean, user-friendly experience for authentication.
+
+## Features
+
+- **Intuitive Design:** A straightforward login interface with separate sections for email and password entry.
+  
+- **Responsive Layout:** Ensures optimal viewing on various devices, maintaining a seamless experience.
+
+- **Aesthetic Appeal:** Modern color schemes and subtle animations enhance the visual aesthetics of the login page.
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/khalid361/Gmail-Login-Page.git
+   ```
+
+2. Open `index.html` in your preferred web browser.
+
+3. Explore and interact with the Gmail Login Page.
+
+4. Customize the design by modifying the HTML and CSS files to suit your needs.
+
+## Screenshots
+
+![3724084c-0313-44e2-8a27-d1dfa950ab94](https://github.com/khalid361/Gmail-Login-Page/assets/140252447/74bd6622-641f-4c23-99e6-85879c989fd5)
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## License
+
+This project is licensed under the [GNU License](LICENSE).
+
+## Acknowledgments
+
+- Thanks to the Gmail design for inspiration.
+
+Happy Coding!
+```
+
+Remember to replace "your-username" with your actual GitHub username and update any file paths, names, or other details based on your project structure. Additionally, you might want to add a "Screenshots" section with images of your Gmail Login Page in action.
